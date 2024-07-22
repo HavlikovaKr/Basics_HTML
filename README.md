@@ -8,3 +8,7 @@ Stránka obsahuje obecné informace o hře, seznam datadisků a hratelné rasy r
 - Seznam datadisků
 - Tabulka hratelných ras podle frakcí
 - Odkazy na další zdroje
+
+## Obsah
+![Screenshot 2024-07-22 220126](https://github.com/user-attachments/assets/e49a7582-dbdd-4495-a47a-d3cef8f067c0)
+![Screenshot 2024-07-22 2202071](https://github.com/user-attachments/assets/4926b8dd-6b9d-4e8b-8c9a-efcc9ec5c0cd)
