@@ -1,2 +1,2 @@
-# basics_html
-Html stránka - základní informace o hře World od Warcraft
+# Basics_HTML
+HTML stránka - základní informace o hře World od Warcraft
